@@ -1,0 +1,8 @@
+﻿  lab3.cpp
+\\psf\home\documents\visual studio 2015\projects\lab3\lab3\lab3.cpp(7): warning C4005: STRICT: изменение макроопределения
+  c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(23): note: см. предыдущее определение "STRICT"
+\\psf\home\documents\visual studio 2015\projects\lab3\lab3\lab3.cpp(48): warning C4101: hWnd: неиспользованная локальная переменная
+\\psf\home\documents\visual studio 2015\projects\lab3\lab3\lab3.cpp(273): warning C4101: hbm1: неиспользованная локальная переменная
+\\psf\home\documents\visual studio 2015\projects\lab3\lab3\lab3.cpp(345): warning C4101: hbm: неиспользованная локальная переменная
+  lab3.vcxproj -> \\psf\Home\Documents\Visual Studio 2015\Projects\lab3\Debug\lab3.exe
+  lab3.vcxproj -> \\psf\Home\Documents\Visual Studio 2015\Projects\lab3\Debug\lab3.pdb (Full PDB)

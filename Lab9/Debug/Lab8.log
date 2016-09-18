@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab8.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Lab8.cpp
+\\psf\home\documents\visual studio 2015\projects\lab9\lab8.cpp(77): warning C4477: "swprintf": в строке форматирования "%s" требуется аргумент типа "wchar_t *", но вариативный аргумент "2" имеет тип "char **"
+\\psf\home\documents\visual studio 2015\projects\lab9\lab8.cpp(77): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note:  см. объявление "swprintf"
+\\psf\home\documents\visual studio 2015\projects\lab9\lab8.cpp(89): warning C4477: "swprintf": в строке форматирования "%s" требуется аргумент типа "wchar_t *", но вариативный аргумент "2" имеет тип "char **"
+\\psf\home\documents\visual studio 2015\projects\lab9\lab8.cpp(89): warning C4477: "swprintf": в строке форматирования "%s" требуется аргумент типа "wchar_t *", но вариативный аргумент "3" имеет тип "char *"
+  \\psf\home\documents\visual studio 2015\projects\lab9\lab8.cpp(89): note: рекомендуется использовать "%hs" в строке форматирования
+  \\psf\home\documents\visual studio 2015\projects\lab9\lab8.cpp(89): note: рекомендуется использовать "%Ts" в строке форматирования
+  \\psf\home\documents\visual studio 2015\projects\lab9\lab8.cpp(89): note: рекомендуется определить _CRT_STDIO_ISO_WIDE_SPECIFIERS, если требуется стандартная семантика C99
+\\psf\home\documents\visual studio 2015\projects\lab9\lab8.cpp(89): warning C4996: 'swprintf': function has been changed to conform with the ISO C standard, adding an extra character count parameter. To use the traditional Microsoft version, set _CRT_NON_CONFORMING_SWPRINTFS.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1820): note:  см. объявление "swprintf"
+\\psf\home\documents\visual studio 2015\projects\lab9\lab8.cpp(169): warning C4101: hdc: неиспользованная локальная переменная
+\\psf\home\documents\visual studio 2015\projects\lab9\lab8.cpp(168): warning C4101: ps: неиспользованная локальная переменная
+  Lab8.vcxproj -> \\psf\Home\Documents\Visual Studio 2015\Projects\Lab9\Debug\Lab9.exe
+  Lab8.vcxproj -> \\psf\Home\Documents\Visual Studio 2015\Projects\Lab9\Debug\Lab9.pdb (Full PDB)
